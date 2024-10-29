@@ -2382,6 +2382,10 @@
     <bcf:citekey order="7" intorder="1">Kiene2024</bcf:citekey>
     <bcf:citekey order="8" intorder="1">SophosNews2019</bcf:citekey>
     <bcf:citekey order="9" intorder="1">conde2024five</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Vladimirova2024</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">conde2024five</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">Wang2018</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Kosinski2021</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

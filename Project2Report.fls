@@ -231,6 +231,11 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 OUTPUT Project2Report.pdf
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+INPUT ./signcropped.png
+INPUT ./signcropped.png
+INPUT ./signcropped.png
+INPUT ./signcropped.png
+INPUT ./signcropped.png
 INPUT Project2Report.aux
 INPUT Project2Report.run.xml
 OUTPUT Project2Report.run.xml
