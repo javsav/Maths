@@ -57,6 +57,226 @@
       \field{pages}{ipae007}
       \range{pages}{-1}
     \endentry
+    \entry{Kiene2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9b70f81b90cea482716bbd354ec565fa}{%
+           family={Kiene},
+           familyi={K\bibinitperiod},
+           given={Kiara},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago}%
+      }
+      \strng{namehash}{9b70f81b90cea482716bbd354ec565fa}
+      \strng{fullhash}{9b70f81b90cea482716bbd354ec565fa}
+      \strng{fullhashraw}{9b70f81b90cea482716bbd354ec565fa}
+      \strng{bibnamehash}{9b70f81b90cea482716bbd354ec565fa}
+      \strng{authorbibnamehash}{9b70f81b90cea482716bbd354ec565fa}
+      \strng{authornamehash}{9b70f81b90cea482716bbd354ec565fa}
+      \strng{authorfullhash}{9b70f81b90cea482716bbd354ec565fa}
+      \strng{authorfullhashraw}{9b70f81b90cea482716bbd354ec565fa}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Open-Source Surveillance-Do You Own Your Face?}
+      \field{year}{2024}
+      \field{dateera}{ce}
+    \endentry
+    \entry{CyberSecurity2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=27642075167ddf66d5658eaff6397d4f}{%
+           family={{McAfee CyberSecurity}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {McAfee}%
+      }
+      \strng{namehash}{27642075167ddf66d5658eaff6397d4f}
+      \strng{fullhash}{27642075167ddf66d5658eaff6397d4f}
+      \strng{fullhashraw}{27642075167ddf66d5658eaff6397d4f}
+      \strng{bibnamehash}{27642075167ddf66d5658eaff6397d4f}
+      \strng{authorbibnamehash}{27642075167ddf66d5658eaff6397d4f}
+      \strng{authornamehash}{27642075167ddf66d5658eaff6397d4f}
+      \strng{authorfullhash}{27642075167ddf66d5658eaff6397d4f}
+      \strng{authorfullhashraw}{27642075167ddf66d5658eaff6397d4f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{A McAfee CyberSecurity Artificial Intelligence Report}
+      \field{title}{Beware the Artificial Impostor}
+      \field{type}{techreport}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mcafee.com/content/dam/consumer/en-us/resources/cybersecurity/artificial-intelligence/rp-beware-the-artificial-impostor-report.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.mcafee.com/content/dam/consumer/en-us/resources/cybersecurity/artificial-intelligence/rp-beware-the-artificial-impostor-report.pdf
+      \endverb
+    \endentry
+    \entry{PimEyes2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d07293d7c6cf73a7627ea5fcf8571f4a}{%
+           family={{PimEyes}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{d07293d7c6cf73a7627ea5fcf8571f4a}
+      \strng{fullhash}{d07293d7c6cf73a7627ea5fcf8571f4a}
+      \strng{fullhashraw}{d07293d7c6cf73a7627ea5fcf8571f4a}
+      \strng{bibnamehash}{d07293d7c6cf73a7627ea5fcf8571f4a}
+      \strng{authorbibnamehash}{d07293d7c6cf73a7627ea5fcf8571f4a}
+      \strng{authornamehash}{d07293d7c6cf73a7627ea5fcf8571f4a}
+      \strng{authorfullhash}{d07293d7c6cf73a7627ea5fcf8571f4a}
+      \strng{authorfullhashraw}{d07293d7c6cf73a7627ea5fcf8571f4a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed 29-10-2024}
+      \field{title}{Select Your Plan}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://pimeyes.com/en/premium
+      \endverb
+      \verb{url}
+      \verb https://pimeyes.com/en/premium
+      \endverb
+    \endentry
+    \entry{SophosNews2019}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dda6a4046f7c8a40f7c0d1a20e9a8dd7}{%
+           family={{Sophos News}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{dda6a4046f7c8a40f7c0d1a20e9a8dd7}
+      \strng{fullhash}{dda6a4046f7c8a40f7c0d1a20e9a8dd7}
+      \strng{fullhashraw}{dda6a4046f7c8a40f7c0d1a20e9a8dd7}
+      \strng{bibnamehash}{dda6a4046f7c8a40f7c0d1a20e9a8dd7}
+      \strng{authorbibnamehash}{dda6a4046f7c8a40f7c0d1a20e9a8dd7}
+      \strng{authornamehash}{dda6a4046f7c8a40f7c0d1a20e9a8dd7}
+      \strng{authorfullhash}{dda6a4046f7c8a40f7c0d1a20e9a8dd7}
+      \strng{authorfullhashraw}{dda6a4046f7c8a40f7c0d1a20e9a8dd7}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Facial recognition used to strip adult industry workers of anonymity}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://news.sophos.com/en-us/2019/05/31/facial-recognition-used-to-strip-adult-industry-workers-of-anonymity/
+      \endverb
+      \verb{url}
+      \verb https://news.sophos.com/en-us/2019/05/31/facial-recognition-used-to-strip-adult-industry-workers-of-anonymity/
+      \endverb
+    \endentry
+    \entry{take2024expect}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=9c3829c3ab23c6919cef2ce111f73e7e}{%
+           family={Take},
+           familyi={T\bibinitperiod},
+           given={Kejsi},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16f169e1afb54329e6ce11eda827d934}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Jordyn},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c94235799379174f8f91f2d65c1b637a}{%
+           family={Bhalerao},
+           familyi={B\bibinitperiod},
+           given={Rasika},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=712ad5f242bb8cce6956af0035670e92}{%
+           family={Gallagher},
+           familyi={G\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d01d81a5cc5ecce88f7a7f6fcf131d3}{%
+           family={Forte},
+           familyi={F\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5aa95937949aa05ba5443b2869aa21e6}{%
+           family={McCoy},
+           familyi={M\bibinitperiod},
+           given={Damon},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2c72fc578663fab79fc999080ccbcbd}{%
+           family={Greenstadt},
+           familyi={G\bibinitperiod},
+           given={Rachel},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{34177f04d62d62268f10cf2a1d1c82ee}
+      \strng{fullhash}{4d0bc5046eaf9a287a634a31eba3189f}
+      \strng{fullhashraw}{4d0bc5046eaf9a287a634a31eba3189f}
+      \strng{bibnamehash}{34177f04d62d62268f10cf2a1d1c82ee}
+      \strng{authorbibnamehash}{34177f04d62d62268f10cf2a1d1c82ee}
+      \strng{authornamehash}{34177f04d62d62268f10cf2a1d1c82ee}
+      \strng{authorfullhash}{4d0bc5046eaf9a287a634a31eba3189f}
+      \strng{authorfullhashraw}{4d0bc5046eaf9a287a634a31eba3189f}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings on Privacy Enhancing Technologies}
+      \field{title}{What to Expect When You’re Accessing: An Exploration of User Privacy Rights in People Search Websites}
+      \field{year}{2024}
+    \endentry
+    \entry{YouGov2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c387a2c458ae2194928215bf65dccb5e}{%
+           family={{YouGov}},
+           familyi={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{c387a2c458ae2194928215bf65dccb5e}
+      \strng{fullhash}{c387a2c458ae2194928215bf65dccb5e}
+      \strng{fullhashraw}{c387a2c458ae2194928215bf65dccb5e}
+      \strng{bibnamehash}{c387a2c458ae2194928215bf65dccb5e}
+      \strng{authorbibnamehash}{c387a2c458ae2194928215bf65dccb5e}
+      \strng{authornamehash}{c387a2c458ae2194928215bf65dccb5e}
+      \strng{authorfullhash}{c387a2c458ae2194928215bf65dccb5e}
+      \strng{authorfullhashraw}{c387a2c458ae2194928215bf65dccb5e}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Survey of 8568 US adults}
+      \field{title}{How many photos of you are online?}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://today.yougov.com/topics/society/survey-results/daily/2022/12/14/62da0/1
+      \endverb
+      \verb{url}
+      \verb https://today.yougov.com/topics/society/survey-results/daily/2022/12/14/62da0/1
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
